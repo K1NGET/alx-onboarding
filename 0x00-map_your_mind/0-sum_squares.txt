@@ -1,0 +1,1 @@
+Take any positive integer n and sum the squares of its digits. If you repeat this operation, eventually you'll either end at 1 or cycle between the eight values 4, 16, 37, 58, 89, 145, 42, and 20. For example, pick n = 389. Then 3² + 8² + 9² = 9 + 64 + 81 = 154.

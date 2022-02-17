@@ -1,0 +1,1 @@
+on 05 Jan 2021, the running total is 66. This is the total number of items sold from 01 Jan 2021 to 05 Jan 2021 (including on 05 Jan 2021). Specifically, the calculation is 10 + 12 + 15 + 9 + 20 = 66.
